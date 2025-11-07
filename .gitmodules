@@ -1,0 +1,3 @@
+[submodule "private-data"]
+	path = private-data
+	url = git@github.com:P2evikud/P2-private-data.git
